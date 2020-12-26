@@ -1,1 +1,1 @@
-# swearing-machine
+# Created for toxic humans.
